@@ -1,0 +1,10 @@
+{
+  "flight": {
+    "fromLocation": "MAA",
+    "toLocation": "MEL",
+    "travelDateYear": "2026",
+    "travelDateMonth": "September",
+    "travelDateDay": "10"
+  },
+  "expectedFlightDetails": "Chennai to Melbourne"
+}

@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "booking": {
+    "create": {
+      "firstname": "Automation",
+      "lastname": "Tester",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2026-06-12",
+        "checkout": "2026-06-15"
+      },
+      "additionalneeds": "Breakfast"
+    },
+    "update": {
+      "firstname": "Automation",
+      "lastname": "Tester-Updated",
+      "totalprice": 150,
+      "depositpaid": false,
+      "bookingdates": {
+        "checkin": "2026-06-12",
+        "checkout": "2026-06-15"
+      },
+      "additionalneeds": "Automation Verified"
+    }
+  }
+}

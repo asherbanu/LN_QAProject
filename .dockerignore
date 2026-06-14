@@ -1,0 +1,11 @@
+node_modules
+results/
+screenshots/
+ScreenShots/
+logs/
+*.log
+npm-debug.log*
+.env*
+.git
+.gitignore
+Dockerfile
