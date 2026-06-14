@@ -52,7 +52,7 @@ This project contains:
 1. Clone or extract the project
 2. Navigate to project directory:
    ```bash
-   cd com.cheapflight.au_WDIO-main
+   cd LN_QAProject-main
    ```
 3. Install dependencies:
    ```bash
